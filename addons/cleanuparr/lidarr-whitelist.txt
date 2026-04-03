@@ -1,0 +1,4 @@
+*.flac
+*.cue
+*.mp3
+*.ape
